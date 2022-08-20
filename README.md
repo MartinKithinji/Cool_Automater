@@ -2,4 +2,4 @@
 Automating simple tasks.
 Automation could also be thought as laziness!:)
 
-We are gonna use C#!
+We are gonna use python and C#!
